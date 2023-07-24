@@ -11,6 +11,7 @@ def load_data():
 data = load_data()
 
 # Title and introduction
+st.title("New input")
 st.title("Video Game Sales Dashboard")
 st.write("Explore video game sales, ratings, and platforms using this interactive dashboard.")
 
